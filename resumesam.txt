@@ -1,0 +1,18 @@
+name               : Sam immanuel David
+father's name      : Anselm john David
+gender             : male
+date of birth      :29/8/2005
+religion           :Christian
+nationality        :Indian
+martial status     :unmarried
+qualification      :bca
+language known     :tamil,english
+address            :no 18/21 thiruvullur statue manali neew town Chennai
+contact no         :8838456889
+emailed            :sam2982005@gmail.com
+            
+                              DICLARATION
+I HEREBY DECLARE THAT THE ABOVE INFORMATION ARE TRUE AND CORRECT TO THE
+BEST OF MY KNOWLEDGE AND BELIEF.
+Date: 17/03/2025                                       Yours faithfully
+Place: Chennai                                          sam Immanuel
